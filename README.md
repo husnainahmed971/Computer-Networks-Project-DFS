@@ -35,9 +35,9 @@ $ py dfc.py dfc.conf
 	
 **USERS and PASSWORDS**:
 
-```
-Encrpyted :)
-```
+
+Choose your own Passwords
+
 		
 Usernames and passwords can be changed in the configuration files. Changes must adhere to the 
 spacing and syntax found in the conf files and be identical across all .conf files (dfs and dfc 
