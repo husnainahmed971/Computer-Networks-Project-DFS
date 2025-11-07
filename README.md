@@ -21,6 +21,7 @@ Some security is implemented via authentication, and storage of password hashes.
 ## Running the Project 
 
 
+
 **RUN** (any number of) servers first, then the client:
 
 
@@ -34,8 +35,8 @@ $ py dfc.py dfc.conf
 	
 **USERS and PASSWORDS**:
 
-```	
-*****
+```
+Encrpyted :)
 ```
 		
 Usernames and passwords can be changed in the configuration files. Changes must adhere to the 
