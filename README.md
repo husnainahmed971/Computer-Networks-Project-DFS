@@ -20,14 +20,15 @@ Some security is implemented via authentication, and storage of password hashes.
 
 ## Running the Project 
 
+
 **RUN** (any number of) servers first, then the client:
+
 
 
 $ py dfs1.py 10001
 $ py dfs2.py 10002
 $ py dfs3.py 10003
 $ py dfs4.py 10004
-
 $ py dfc.py dfc.conf
 
 	
